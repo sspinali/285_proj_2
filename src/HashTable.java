@@ -2,6 +2,8 @@ import java.util.*;
 import java.lang.*;
 import java.io.*;
 
+/* This is a hash table*/
+
 public class HashTable {
 
     public static void main(String[] args)
